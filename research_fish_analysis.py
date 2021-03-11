@@ -3,8 +3,8 @@
 
 import pandas as pd
 from pandas import ExcelWriter
-#import numpy as np
-#import csv
+import numpy as np
+import csv
 import matplotlib.pyplot as plt
 from urllib.parse import urlparse
 from collections import Counter
